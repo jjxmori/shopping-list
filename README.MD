@@ -2,7 +2,7 @@
 
 A modern, animated shopping list app with persistent storage.
 
-**[View Project](https://github.com/jjxmori/shopping-list)**
+**[View Project](https://jjxmori.github.io/shopping-list/)**
 
 ## Features
 
@@ -36,7 +36,7 @@ Open `index.html` in your browser. That's it!
 
 ## Screenshots
 
-![Shopping List Preview](#)
+![Shopping List Preview](shoppingListImg.png)
 
 ---
 
