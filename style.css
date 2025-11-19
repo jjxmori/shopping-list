@@ -278,3 +278,31 @@ li.removing {
         transform: translateX(20px);
     }
 }
+@media (max-width: 480px) {
+    .container {
+        padding: 24px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    .input-group {
+        flex-direction: column;
+    }
+
+    #enter {
+        width: 100%;
+    }
+
+    li {
+        flex-direction: column;
+        gap: 12px;
+        align-items: flex-start;
+    }
+
+    .li-buttons {
+        width: 100%;
+        justify-content: flex-end;
+    }
+}
